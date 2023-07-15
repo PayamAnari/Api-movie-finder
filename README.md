@@ -12,9 +12,6 @@
 	</strong>
 </h3>
 
-<h2 align="center">
-<img
-            width="500"
-	    alt="movie-app"
-            scr="https://live.staticflickr.com/65535/53048349974_e119d7ded3_m.jpg">
-</h2>	          
+<p align="center">
+	<img src="(https://live.staticflickr.com/65535/53048349974_e119d7ded3_m.jpg)https://live.staticflickr.com/65535/53048349974_e119d7ded3_m.jpg" width="550">
+</p>	          
