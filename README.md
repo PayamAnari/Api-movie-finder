@@ -24,7 +24,7 @@
 ---
 
 
-## Movie Finder  🎥
+## Movie Finder  🎬
 >Movie Finder is a web application that allows users to search for movies and view detailed information about them. It uses the OMDB API to fetch movie data and provides an intuitive interface for users to explore and discover movies.
 
 ---
