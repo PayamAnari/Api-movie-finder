@@ -13,5 +13,5 @@
 </h3>
 
 <p align="center">
-	<img src="https://live.staticflickr.com/65535/53048349974_e119d7ded3_m.jpg" width="750">
+	<img src="https://flic.kr/p/2oPGEgG" width="750">
 </p>	          
