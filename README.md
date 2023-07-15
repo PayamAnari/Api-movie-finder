@@ -7,5 +7,5 @@
 
 
 <h3 align="center">
-	Movie Finder  📷
+	##Movie Finder  📷
 </h3>
