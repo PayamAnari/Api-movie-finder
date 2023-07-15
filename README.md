@@ -59,11 +59,6 @@
 
 ---
 
-## Contributions
-- Contributions to the Movie Finder project are welcome! If you have any suggestions, bug fixes, or new feature implementations, feel free to submit a pull request.
-
----
-
 ## Code structure
 
 ```
@@ -92,5 +87,10 @@ README.md
 - `movie.js` || The module responsible for fetching and displaying movie details
 - `quote.js` || The module responsible for fetching and displaying random famous quotes
 - `index.html` || HTML file, main structure of the app.
+
+---
+
+## Contributions
+- Contributions to the Movie Finder project are welcome! If you have any suggestions, bug fixes, or new feature implementations, feel free to submit a pull request.
 
 ---
