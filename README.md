@@ -51,9 +51,9 @@
 ## Getting Started
 - To run the Movie Finder project locally, follow these steps:
 
-1.Clone the repository: git clone https://github.com/your-username/movie-finder.git
-2.Open the index.html file in a web browser.
-3.Start searching for movies and exploring their details.
+1. Clone the repository: git clone https://github.com/your-username/movie-finder.git
+2. Open the index.html file in a web browser.
+3. Start searching for movies and exploring their details.
 
 ---
 
