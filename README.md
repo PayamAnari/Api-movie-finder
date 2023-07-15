@@ -36,6 +36,7 @@
 - **Random famous quote:** Each time the page loads, a random famous quote is displayed in the sidebar to provide users with inspiration or a thought-provoking message.
 - **Responsive design:** The application is designed to be mobile-friendly and adapts to different screen sizes, allowing users to access and use it on various devices.
 
+---
   
 ## Technologies Used
 
