@@ -61,3 +61,34 @@
 - Contributions to the Movie Finder project are welcome! If you have any suggestions, bug fixes, or new feature implementations, feel free to submit a pull request.
 
 ---
+
+## Code structure
+
+```
+
+assets
+public
+  └── styles.css
+src
+  └── app.js
+  └── movie.js
+  └── quote.js
+      
+index.html
+package-loc.json
+package.json
+README.md
+```
+---
+
+###  Client structure
+
+- `assets` || images that were used in the app and also in README.md
+- `public` || css file for styling the whole page
+- `src` || This directory contains the JavaScript code for different modules used in the application
+- `app.js` || The main JavaScript file that initializes the application and handles user interactions
+- `movie.js` || The module responsible for fetching and displaying movie details
+- `quote.js` || The module responsible for fetching and displaying random famous quotes
+- `index.html` || HTML file, main structure of the app.
+
+---
