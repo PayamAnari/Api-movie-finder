@@ -1,4 +1,4 @@
-let OMDB_KEY = 'http://www.omdbapi.com/?i=tt3896198&apikey=96082af0';
+let OMDB_KEY = '96082af0';
 
 function getMovie(movieName) {
   let url = `http://www.omdbapi.com/?t=${movieName}&apikey=${OMDB_KEY}`;
