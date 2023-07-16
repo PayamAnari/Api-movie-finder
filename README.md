@@ -21,6 +21,13 @@
 	<img src="https://live.staticflickr.com/65535/53048349974_e119d7ded3_b.jpg" width="1024" height="600" alt="Screenshot 2023-07-15 at 21.47.28"/></a>
 </p>	
 
+
+---
+
+## Live Demo
+>[Live Demo Link](https://payamanari.github.io/Api-movie-finder/)
+
+
 ---
 
 
@@ -53,7 +60,7 @@
 ## Getting Started
 - To run the Movie Finder project locally, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/movie-finder.git
+1. Clone the repository: git clone https://github.com/PayamAnari/Api-movie-finder
 2. Open the index.html file in a web browser.
 3. Start searching for movies and exploring their details.
 
