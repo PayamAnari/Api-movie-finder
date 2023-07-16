@@ -1,7 +1,7 @@
 let OMDB_KEY = '96082af0';
 
 function getMovie(movieName) {
-  let url = `http://www.omdbapi.com/?t=${movieName}&apikey=${OMDB_KEY}`;
+  let url = `https://www.omdbapi.com/?t=${movieName}&apikey=${OMDB_KEY}`;
 
   return fetch(url)
     .then((resp) => resp.json())
