@@ -65,7 +65,7 @@
 
 assets
 public
-  └── styles.css
+  └── style.css
 src
   └── views
        └── movie.js
