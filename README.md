@@ -67,9 +67,10 @@ assets
 public
   └── styles.css
 src
+  └── views
+       └── movie.js
+       └── quote.js
   └── app.js
-  └── movie.js
-  └── quote.js
       
 index.html
 package-loc.json
