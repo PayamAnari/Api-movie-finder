@@ -1,7 +1,7 @@
-let movieNameRef = document.getElementById('movie-name');
-let searchBtn = document.getElementById('search-btn');
-let result = document.getElementById('result');
-let quoteContainer = document.getElementById('quote-container');
+const movieNameRef = document.getElementById('movie-name');
+const searchBtn = document.getElementById('search-btn');
+const result = document.getElementById('result');
+const quoteContainer = document.getElementById('quote-container');
 
 function Movie(movieName) {
   if (movieName.length <= 0) {
