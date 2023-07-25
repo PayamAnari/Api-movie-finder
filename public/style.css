@@ -207,6 +207,9 @@ p {
 @media only screen and (max-width: 764px)
 
 {
+  .search-container input {
+    outline: none;
+  }
   .container {
     font-size: 12px;
     width: 350px;
@@ -254,7 +257,9 @@ p {
 @media only screen  
 and (max-device-width: 1024px)
 {
-
+   .search-container input {
+    outline: none;
+  }
    .header {
     height: 90px;
    }
