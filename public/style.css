@@ -91,9 +91,9 @@ body {
   padding: 0.7em;
   color: #ffffff;
 }
-.search-container input:focus {
+/*.search-container input:focus {
  border-color: #ffffff;
-}
+}*/
 .search-container button {
   background-color: #ffb92a;
   border: none;
