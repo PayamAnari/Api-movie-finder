@@ -209,6 +209,7 @@ p {
 {
   .search-container input {
     outline: none;
+    -webkit-tap-highlight-color: transparent;
   }
   .container {
     font-size: 12px;
