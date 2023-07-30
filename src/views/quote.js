@@ -14,6 +14,8 @@ async function getQuote() {
     return quote;
   } catch (error) {
     console.log(error);
-    throw new Error('Unable to get quote');
+    const quote = 'Life is like riding a bicycle. To keep your balance, you must keep moving.'
+    return quote;
+    //throw new Error('Unable to get quote');
   }
 }
