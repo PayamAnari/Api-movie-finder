@@ -80,7 +80,7 @@ src
   └── app.js
       
 index.html
-package-loc.json
+package-lock.json
 package.json
 README.md
 ```
